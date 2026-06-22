@@ -6,6 +6,6 @@ app_subnet_prefix = "10.10.2.0/24"
 
 tags = {
   environment = "dev"
-  owner       = "cloud-lab-team"
+  owner       = "dev-team-only"
   managed_by  = "terraform"
 }
